@@ -1,7 +1,7 @@
 # Welcome to the Spyderisk Open Project on GitHub
 
 Here you will find all of the code that makes up
-[Spyderisk](https://spyderisk.org), the automated risk assessment tool. The most important Spyderisk repositories for users are pinned
+[Spyderisk](https://spyderisk.org), the automated risk assessment tool which you can [see and learn about online](https://training.spyderisk.org/courses/). The most important Spyderisk repositories for users are pinned
 below, and are:
 
 * Spyderisk System Modeller - the main Spyderisk application. This repository is for technical software developers. This app contains a mathematical model of the world (the "Domain Model") over which a user can graphically add the specifics of their particular use case (the "System Model"). Spyderisk then calculates the risk of various scenarios happening, for example, a large cloud service becoming unavailable following an electrical outage that affects a critical datacentre. The Spyderisk System Modeller can be provided as a hosted service, an example being the training installation available at spyderisk.org.
