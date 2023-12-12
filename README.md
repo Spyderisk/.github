@@ -1,3 +1,5 @@
-# Welcome to the Spyderisk Open Project on GitHub
+# .github repo for the Spyderisk open project
 
-Here you will find all of the code and some of the documentation that makes up Spyderisk.
+This is GitHub-specific metadata, especially the organisation-level README.md. Other 
+worthy project hosters such as [Codeberg](https://codeberg.com) and [SourceHut](https://sr.ht)
+do not use or recognise this directory.
