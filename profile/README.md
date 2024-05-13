@@ -4,6 +4,10 @@ The Spyderisk Open Project started in 2023, building on
 [15 years of history in risk assessment](https://github.com/Spyderisk/system-modeller/blob/dev/HISTORY.md)
 of complex systems.
 
+The overall Spyderisk mission is to:
+
+> increase global trust in Information and Communication Technology (ICT) by establishing an international Open Community supporting the research, development, use and support of open, reliable, accessible and inclusive ICT risk assessment methods and tools.
+
 All of our work is published and maintained under open licenses - software
 source code, ontologies, domain model database, online training, documentation,
 and academic papers. The Spyderisk Open Project was launched by the University of
