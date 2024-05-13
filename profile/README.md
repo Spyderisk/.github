@@ -10,12 +10,12 @@ The overall Spyderisk mission is to:
 
 All of our work is published and maintained under open licenses - software
 source code, ontologies, domain model database, online training, documentation,
-and academic papers. The Spyderisk Open Project was launched by the University of
+and academic papers. The Spyderisk Open Project was founded by the University of
 Southampton, England, but we welcome all collaborators and contributors.
 
 ## Who is Spyderisk for?
 
-Spyderisk at present is for people who are familiar with the field of risk
+Spyderisk at present in 2024 is for people who are familiar with the field of risk
 assessment, such as risk researchers, academics, ethicists or policymakers.
 
 Focus areas of the Spyderisk Open Project are:
@@ -26,23 +26,28 @@ Focus areas of the Spyderisk Open Project are:
 * software tools to calculate risk in models of complex systems
 
 While the Spyderisk software is currently for the more technically-inclined,
-we make clear in our
+as we make clear in our
 [guide to Spyderisk contributors](https://github.com/Spyderisk/system-modeller/blob/dev/CONTRIBUTING.md)
-that if you have an interest in risk assessment, there probably a way to become involved.
-Just explaining what risk assessment is about and why it is important is a skill in itself,
+there is likely a way for anyone passionate about risk assessment to become involved.
+Even explaining what risk assessment is about is a skill in itself,
 and if you have that skill we would love to hear from you.
 
 ## What is Spyderisk
 
-By *complex systems* we means "systems of systems that humans are unable to
-fully understand, debug or predict, typically socio-technical-physical
-systems." The social aspects include legal and policy requirements; technical
-components include information technology networks and machine
-learning/artificial intelligence; while physical systems include handheld
-devices, train station information zones, and human guards at country frontier
-checkpoints.  These complex systems decide (among many examples) our everyday
-privacy, the safety of our medical records, and that airports function smoothly
-and safely.
+Spyderisk is for assessing risk in complex systems. By *complex systems* we
+mean "systems of systems that humans are unable to fully understand, debug or
+predict, typically socio-technical-physical systems." In other words, humans
+build critical systems that are unknowable, and so we need to apply mathematics
+to delineate the risks in these unknowable systems.
+
+Socio-technical-physical is a term that encapsulates the interconnectedness of
+the modern world. *Social* aspects include legal and policy requirements;
+*technical* components include information technology networks and machine
+learning/artificial intelligence; while examples of *physical systems* include
+handheld devices, train station information zones, and human guards at country
+frontier checkpoints. Put together, these kinds of complex systems decide our
+everyday privacy, the safety of our medical records, and that airports function
+smoothly and safely.
 
 The Spyderisk team has written many
 [papers and reports related to risk assessment](https://github.com/Spyderisk/system-modeller/blob/dev/docs/papers/README.md),
