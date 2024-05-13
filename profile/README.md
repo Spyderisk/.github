@@ -8,10 +8,11 @@ The overall Spyderisk mission is to:
 
 > increase global trust in Information and Communication Technology (ICT) by establishing an international Open Community supporting the research, development, use and support of open, reliable, accessible and inclusive ICT risk assessment methods and tools.
 
-All of our work is published and maintained under open licenses - software
+All our work is published and maintained under open licenses - software
 source code, ontologies, domain model database, online training, documentation,
 and academic papers. The Spyderisk Open Project was founded by the University of
-Southampton, England, but we welcome all collaborators and contributors.
+Southampton, England, but we welcome all collaborators and contributors. You can
+contact us via [team@spyderisk.org](email://team@spyderisk.org).
 
 ## Who is Spyderisk for?
 
@@ -40,7 +41,7 @@ predict, typically socio-technical-physical systems." In other words, humans
 build critical systems that are unknowable, and so we need to apply mathematics
 to delineate the risks in these unknowable systems.
 
-Socio-technical-physical is a term that encapsulates the interconnectedness of
+"Socio-technical-physical" relates to the interconnectedness of
 the modern world. *Social* aspects include legal and policy requirements;
 *technical* components include information technology networks and machine
 learning/artificial intelligence; while examples of *physical systems* include
