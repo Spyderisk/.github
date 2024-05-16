@@ -12,7 +12,7 @@ All our work is published and maintained under open licenses - software
 source code, ontologies, domain model database, online training, documentation,
 and academic papers. The Spyderisk Open Project was founded by the University of
 Southampton, England, but we welcome all collaborators and contributors. You can
-contact us via [team@spyderisk.org](email://team@spyderisk.org).
+contact us via [team@spyderisk.org](mailto://team@spyderisk.org).
 
 ## Who is Spyderisk for?
 
@@ -59,8 +59,8 @@ or security aspects of systems composed of IoT systems. Spyderisk starts from an
 although people using the Spyderisk software do not require an understanding of ontology.
 
 As of Mid-2024, the Spyderisk software is in early release, fully available but only working
-in quite specific circumstances. To get a feel for what the software can do, 
-We have [online training courses](https://training.spyderisk.org/courses/) introducing the field of 
+in quite specific circumstances. To get a feel for what the software can do once it is running,
+we have [online training courses](https://training.spyderisk.org/courses/) introducing the field of 
 automated risk assessment, and how to model systems with the Spyderisk software.
 
 If you are a researcher in the area of risk modelling including ontologies of
