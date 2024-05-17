@@ -39,6 +39,10 @@ there is likely a way for anyone passionate about risk assessment to become invo
 Even explaining what risk assessment is about is a skill in itself,
 and if you have that skill we would love to hear from you.
 
+Our introductory online course 
+[Cybersecurity Risk Assessment & Modelling: Core Priniciples](https://training.spyderisk.org/courses/course/view.php?id=2)
+is a good place to start for those who are not already in the field of risk assessment. 
+
 ## What is Spyderisk?
 
 Spyderisk is for assessing risk in complex socio-technical systems. By *complex systems* we
@@ -65,12 +69,13 @@ although end users of the Spyderisk software do not require an understanding of 
 
 As of Mid-2024, the Spyderisk software is in early release, fully available but only working
 in quite specific circumstances. To get a feel for what the software can do once it is running,
-we have [online training courses](https://training.spyderisk.org/courses/) introducing the field of 
-automated risk assessment, and how to model systems with the Spyderisk software.
+the course [Getting Hands on with Spyderisk](https://training.spyderisk.org/courses/course/view.php?id=3) explains
+how to model systems using the Spyderisk software.
 
 If you are a researcher in the area of risk modelling including ontologies of
-risk, or if you have a specific problem domain you need to examine (particularly
-in cybersecurity or privacy) then Spyderisk could be for you. 
+risk, or if you have a specific problem domain you need to examine
+(particularly in cybersecurity or privacy) then you are already part of our
+community and Spyderisk could be for you. 
 
 # The Spyderisk GitHub repositories
 
@@ -84,5 +89,4 @@ There are many repositories, of which the central four are:
 Other repositories vary from project administration tools to very specific
 technical code that operates on Domain Models.
 
-Do feel free to try our Spyderisk, and we look forward to seeing you around the
-risk assessment community.
+We look forward to seeing you around the risk assessment community.
