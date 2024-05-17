@@ -1,13 +1,18 @@
 # Welcome to the Spyderisk Open Project on GitHub
 
-The Spyderisk Open Project started in 2023, building on
-[15 years of history in risk assessment](https://github.com/Spyderisk/system-modeller/blob/dev/HISTORY.md)
-of complex socio-technical systems. These systems are too vast and intricate for any human to understand or 
-predict, and which society is quite rightly is concerned about.
+Spyderisk exists because complex socio-technical computer systems are too vast
+and intricate for any human to understand or predict. Society is rightly is
+concerned about them, and we are addressing that concern.
 
 The Spyderisk aim is to
 
-> understand the trustworthiness of socio-technical systems by establishing an international Open Community supporting the research, development, use and support of open, effective, and accessible risk assessment methods, knowledge and tools.
+> understand the trustworthiness of socio-technical systems by establishing an
+> international Open Community supporting the research, development, use and
+> support of open, effective, and accessible risk assessment methods, knowledge
+> and tools.
+
+The Spyderisk Open Project started in 2023, building on
+[15 years of history in risk assessment](https://github.com/Spyderisk/system-modeller/blob/dev/HISTORY.md).
 
 All our work is published and maintained under open licenses - software
 source code, ontologies, domain model database, online training, documentation,
