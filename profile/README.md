@@ -81,9 +81,9 @@ community and Spyderisk could be for you.
 
 There are many repositories, of which the central four are:
 
-* [Spyderisk System Modeller](https://github.com/Spyderisk/system-modeller) - the software, for people comfortable dealing with computer source code
-* [Spyderisk System Modeller Deployment](https://github.com/Spyderisk/system-modeller-deployment/) - the tools which allow a user familiar with installing software, either on their own laptop or on cloud servers they own.
-* [Spyderisk Adaptor](https://github.com/Spyderisk/system-modeller-adaptor/) - For users of the [Python programming language](https://python.org) commonly used in science and academia, who want to do automated risk assessment from their owncode. A running instance of the Spyderisk application has APIs that the Spyderisk Adaptor can call.
+* [Spyderisk System Modeller](https://github.com/Spyderisk/system-modeller) - the web service software, for people comfortable dealing with computer source code
+* [Spyderisk System Modeller Deployment](https://github.com/Spyderisk/system-modeller-deployment/) - the tools which allow a user familiar with installing software to get Spyderisk running, either on their own laptop or on cloud servers they own.
+* [Spyderisk Adaptor](https://github.com/Spyderisk/system-modeller-adaptor/) - for users of the [Python programming language](https://python.org) commonly used in science and academia, who want to do automated risk assessment using the Spyderisk reasoner but from their own code. A running instance of the Spyderisk application has APIs that the Spyderisk Adaptor calls.
 * [Spyderisk Domain Network](https://github.com/Spyderisk/domain-network) - the most complete and advanced Spyderisk knowledgebase, describing a complex computing/IoT/cloud network in very general terms such as "server computer" or "database". Users of the Spyderisk software can then load in this model and use it as a palette for drawing their own real-world network in order to explore their particular risk profiles.
 
 Other repositories vary from project administration tools to very specific
