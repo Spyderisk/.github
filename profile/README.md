@@ -1,12 +1,20 @@
 # Welcome to the Spyderisk Open Project on GitHub
 
-Spyderisk exists because complex socio-technical computer systems are too vast
-and intricate for any human to understand or predict. Society is rightly is
-concerned about them, and we are addressing that concern.
+Complex socio-technical computer systems are too vast and intricate for any
+human to understand. In a large airport, or a global social networking app, or
+many other modern system there is a lot more than just technology involved, as
+illustrated here:
 
-The [Spyderisk Open Project Strategy](https://github.com/Spyderisk/system-modeller/blob/dev/docs/Spyderisk-Open-Project-Strategy.md) explains our aim:
+![Socio-technical systems framework](./Hexagonal-socio-technical-systems-framework-adapted-from-Clegg-1979-Challenger-et-al_W640.jpg) [1]
 
-> revolutionise understanding of the trustworthiness of socio-technical systems
+Each of these influences are constantly changing, and are complex systems in
+their own right. How can anyone predict if such a system can be trusted, or
+what its effects could be on our daily lives?  Society is rightly concerned,
+and Spyderisk is our response to this concern.
+
+The [Spyderisk Open Project Strategy](https://github.com/Spyderisk/system-modeller/blob/dev/docs/Spyderisk-Open-Project-Strategy.md) explains our aim to:
+
+> Revolutionise understanding of the trustworthiness of socio-technical systems
 > by establishing an international Open Community supporting the research,
 > development, use and support of open, effective, and accessible risk
 > assessment methods, knowledge and tools.
@@ -17,7 +25,7 @@ The Spyderisk Open Project started in 2023, building on
 All our work is published and maintained under open licenses - software
 source code, ontologies, domain model database, online training, documentation,
 and academic papers. The Spyderisk Open Project was founded by the University
-of Southampton, England, but we welcome all collaborators and contributors. You
+of Southampton in England, but we welcome all collaborators and contributors. You
 can contact us at [team@spyderisk.org](mailto://team@spyderisk.org).
 
 ## Who is Spyderisk for?
@@ -25,19 +33,19 @@ can contact us at [team@spyderisk.org](mailto://team@spyderisk.org).
 Spyderisk at present in 2024 is for people who are familiar with the field of risk
 assessment, such as risk researchers, academics, ethicists or policymakers.
 
-Focus areas of the Spyderisk Open Project are:
+The Spyderisk Open Project focusses on:
 
 * the ethics of risk assessment
 * ontologies of harm, risk and misbehaviour
 * mathematical modelling of risk assessment
 * software tools to calculate risk in models of complex systems
 
-While the Spyderisk software is currently for the more technically-inclined,
-as we make clear in our
-[guide for Spyderisk System Modeller contributors](https://github.com/Spyderisk/system-modeller/blob/dev/CONTRIBUTING.md)
-there is likely a way for anyone passionate about risk assessment to become involved.
-Even explaining what risk assessment is about is a skill in itself,
-and if you have that skill we would love to hear from you.
+While the Spyderisk software currently takes some technical knowledge to run,
+but as we make clear in our [guide for Spyderisk System Modeller
+contributors](https://github.com/Spyderisk/system-modeller/blob/dev/CONTRIBUTING.md)
+anyone passionate about risk assessment can likely find a way to get involved.
+Even explaining what risk assessment is about is a skill, and if you have that
+skill we would love to hear from you.
 
 Our introductory online course 
 [Cybersecurity Risk Assessment & Modelling: Core Priniciples](https://training.spyderisk.org/courses/course/view.php?id=2)
@@ -90,3 +98,5 @@ Other repositories vary from project administration tools to very specific
 technical code that operates on Domain Models.
 
 We look forward to seeing you around the risk assessment community.
+
+[1] Image copyright CC-BY-4.0, Heriot-Watt University, A method for predicting malfunctions in socio-Technical systems, DOI 10.1017/dsj.2017.4
