@@ -26,7 +26,7 @@ All our work is published and maintained under open licenses - software
 source code, ontologies, domain model database, online training, documentation,
 and academic papers. The Spyderisk Open Project was founded by the University
 of Southampton in England, but we welcome all collaborators and contributors. You
-can contact us via the [spyderisk-dev](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SPYDERISK-DEV)list.
+can contact us via the [spyderisk-dev](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SPYDERISK-DEV) list.
 
 ## Who is Spyderisk for?
 
